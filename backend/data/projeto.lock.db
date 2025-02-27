@@ -1,0 +1,6 @@
+#FileLock
+#Thu Feb 27 10:10:47 BRT 2025
+hostName=Lenovo
+id=1954787f174ff5a28d3acd3ec4976015f61caff1607
+method=file
+server=172.16.1.84\:55156
